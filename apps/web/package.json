@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@ffmpeg/core": "^0.12.10",
+    "@upstash/redis": "^1.35.1",
     "@ffmpeg/ffmpeg": "^0.12.15",
     "@ffmpeg/util": "^0.12.2",
     "@hello-pangea/dnd": "^18.0.1",
